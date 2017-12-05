@@ -1,0 +1,20 @@
+{
+  "name": "nolikzero/semvetrov",
+  "description": "App for test task",
+  "type": "app",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Nurlan Ibraev",
+      "email": "nurlanking@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": ""
+    }
+  },
+  "require": {
+  }
+}
